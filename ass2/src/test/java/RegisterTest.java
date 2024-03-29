@@ -104,5 +104,6 @@ public class RegisterTest {
     @AfterClass
     public static void tearDown() {
         driver.close();
+
     }
 }
